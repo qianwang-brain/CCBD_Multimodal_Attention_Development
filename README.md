@@ -1,9 +1,6 @@
 # Multimodal developmental signatures of attention across childhood and adolescence extend to ADHD
 
 Selected analysis scripts accompanying the manuscript with the same title. The repository contains selective-attention (HX) and sustained-attention (two-task) post-fusion analyses, environmental item processing/PCA, and independent PKU ADHD prediction and longitudinal analyses.
-
-The discovery folders contain only the scripts selected by the authors on 2 October 2026. Their analysis types can be mapped to manuscript sections, but exact historical figure/table provenance and numerical reproduction have not been verified. Author-authorized corrections were applied on 2 October 2026; clinical-validation issues remain unresolved. See [CODE_REVIEW.md](CODE_REVIEW.md) before using the outputs.
-
 ## Multimodal fusion
 
 Multimodal fusion was performed in the [Fusion ICA Toolbox (FIT)](https://trendscenter.org/software/fit/). Reference-guided multimodal canonical correlation analysis (MCCAR) jointly integrated resting-state EEG relative power, grey-matter volume (GMV) and resting-state functional connectivity strength (FCS). Separate fusion models used selective- and sustained-attention performance as behavioral references to identify attention-linked modality-specific components and participant-level loadings.
@@ -31,9 +28,6 @@ code/
     ├── prediction/             # Clinical prediction, permutation and scatter plots
     └── treatment/              # Follow-up partial correlations and plots
 data/README.md                  # Input schema and access notes; no data included
-docs/FILE_INVENTORY.md           # All 26 distributed source files and I/O statements
-docs/RUNNING.md                  # Working-directory and dependency requirements
-docs/RELEASE_CHANGES.md          # Curation and preservation record
 ```
 
 ## Selected discovery scripts and manuscript correspondence
