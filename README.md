@@ -36,8 +36,6 @@ docs/RUNNING.md                  # Working-directory and dependency requirements
 docs/RELEASE_CHANGES.md          # Curation and preservation record
 ```
 
-The former `新建文件夹` subdirectories have been archived outside this upload folder. Full-sample/group fusion fitting, the MCCAR solver, repeated CV, paired bootstrap and discovery EEG/MNI renderers are not distributed in these two curated folders. This is a selected analysis-code release, not a complete end-to-end reproduction pipeline.
-
 ## Selected discovery scripts and manuscript correspondence
 
 | Script | HX | Sustained | Function and candidate correspondence |
