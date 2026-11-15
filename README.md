@@ -37,5 +37,3 @@ Discovery and environmental analyses use MATLAB. PKU6 analyses use Python with N
 python predict_clinical_scores.py
 python permutation_test_predictions.py
 ```
-
-See [docs/RUNNING.md](docs/RUNNING.md) for setup and [docs/PKU_ANALYSES.md](docs/PKU_ANALYSES.md) for analysis details.
