@@ -1,4 +1,4 @@
-# EEG-fMRI-sMRI signatures Links Attention Development To Clinical Variation in ADHD
+# Multimodal brain signatures of selective and sustained attention across development and their clinical relevance to ADHD
 
 Analysis code accompanying the manuscript. The study combines EEG, functional MRI and structural MRI to examine selective and sustained attention development and their relevance to clinical variation in ADHD.
 
